@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+## I am Williams Bobadilla, Electronics Engineering student, currently working in many projects and learning every day something new!
 
 - 🔭 I’m currently working on flutter for mobile and python for backend
 - 🌱 I’m currently learning flutter
