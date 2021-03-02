@@ -6,6 +6,6 @@
 - 💬 Ask me about Python, flutter, JS, Embeded Systems like arduino, Rpi, Pic,etc, hardware in general :wrench:
 - 📫 How to reach me: willi1997.1@gmail.com :email:
 
-<a href="https://github.com/unacorbatanegra">
+<a href="https://github.com/WilliBobadilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willibobadilla&count_private=true&show_icons=true&hide_title=true" />
 </a>
