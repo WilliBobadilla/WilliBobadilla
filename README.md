@@ -6,5 +6,5 @@
 - 💬 Ask me about Python, flutter, JS, Embeded Systems like arduino, Rpi, Pic,etc, hardware in general :wrench:
 - 📫 How to reach me: willi1997.1@gmail.com :email:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliBobadilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliBobadilla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliBobadilla&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
