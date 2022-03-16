@@ -19,9 +19,12 @@
 9. Web Scraping
 10. Rest Api, Soap, a little bit of GraphQl
 11. Git
-12. 
+12. Python applied to many areas
+13. 3D Object design with Fusion360
+14. 3D printer operation
+15. Sql
 
-#### Stats 📊
+## Stats 📊
 [![WilliBobadilla StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13603992)](https://stackoverflow.com/users/13603992/williams-bobadilla)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliBobadilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
