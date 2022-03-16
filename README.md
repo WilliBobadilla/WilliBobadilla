@@ -1,14 +1,28 @@
+# 👨‍💻
 ## I am Williams Bobadilla, from Pilar-Paraguay, Electronics Engineering student, currently working in many projects and learning every day something new, loves to share knowledge, every day is an oportunity to grow and to learn something new.. 
 
 - 🔭 I’m currently working on flutter for mobile and python for backend, for RPA.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning flutter and OPENCV.
 - 👯 I’m looking to collaborate on Flutter Community, Python Community.
 - 💬 Ask me about Python, flutter, JS, Embeded Systems like arduino, Rpi, Pic,etc, hardware in general :wrench:
-- 📫 How to reach me: willi1997.1@gmail.com :email:
+- 📫 How to reach me, via mail: willi1997.1@gmail.com :email:, linkedIn: www.linkedin.com/in/williams-ismael-bobadilla-torres  
 
-#### Stats
+## I have experience with: 📃 💻
+1. C/C++ for hardware
+2. Robotics
+3. Backend with Python and node.js
+4. Electronics in general
+5. Mobile with Flutter
+6. Pandas and Python for data science
+7. Opencv 
+8. Bots with python
+9. Web Scraping
+10. Rest Api, Soap, a little bit of GraphQl
+11. Git
+12. 
+
+#### Stats 📊
 [![WilliBobadilla StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13603992)](https://stackoverflow.com/users/13603992/williams-bobadilla)
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliBobadilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
