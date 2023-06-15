@@ -1,5 +1,5 @@
 # Williams Bobadilla 👨‍💻 
-## I am Williams Bobadilla, from Pilar-Paraguay, Electronics Engineering student, currently working in many projects and learning every day something new, loves to share knowledge, every day is an oportunity to grow and to learn something new.. 
+## I am Williams Bobadilla, from Pilar-Paraguay, Electronics Engineer, currently working in many projects and learning every day something new, loves to share knowledge, every day is an oportunity to grow and to learn something new.. 
 
 - 🔭 I’m currently working on flutter for mobile and python for backend, for RPA.
 - 🌱 I’m currently learning flutter and OPENCV.
