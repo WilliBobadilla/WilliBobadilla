@@ -25,7 +25,7 @@
 ## Stats 📊
 [![WilliBobadilla StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13603992)](https://stackoverflow.com/users/13603992/williams-bobadilla)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliBobadilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliBobadilla&show_icons=true&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliBobadilla&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
